@@ -11,4 +11,4 @@ README membantu pembaca memahami tujuan jurnal saya.
 
 ## Target Berikutnya
 
-Saya ingin belajar mencatat perubahan pada berkas jurnal.
+Saya ingin membuka riwayat catatan dan menemukan satu kalimat yang berubah.
